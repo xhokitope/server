@@ -1,0 +1,3 @@
+#PAYLOAD WEBSOCKET PROXY PYTHON 101
+
+GET https://domain.cloudflare.ml/ HTTP/1.1[crlf]Host: host.bug.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Connection: Keep-Akive[crlf]Proxy-Connection: Keep-Alive[crlf]User-Agent: ok[crlf][crlf]
